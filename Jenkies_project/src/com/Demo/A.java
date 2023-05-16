@@ -17,5 +17,9 @@ public class A
 	{
 		System.out.println("dhsdvs");
 	}
+	public void m2()
+	{
+		System.out.println("ayush");
+	}
 
 }
