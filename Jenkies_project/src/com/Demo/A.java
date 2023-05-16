@@ -21,5 +21,9 @@ public class A
 	{
 		System.out.println("ayush");
 	}
+	public void xyz()
+	{
+		System.out.println("yyyyyyyy");
+	}
 
 }
